@@ -36,6 +36,10 @@
 
 View my project on Google Slides [here](https://docs.google.com/presentation/d/1fKzT6UncrZ4-Eq9HKPfxZni0BBSqnteSGG5pQrK8uw4/edit#slide=id.geae86b3ea_0_29)
 
+
+
+All the work uploaded was collaborative.
+
 ###One Tweet
 
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/OneTweet)
@@ -47,6 +51,8 @@ View my project on Google slides [here](https://docs.google.com/presentation/d/1
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/UnionHack)
 
 View my project on Google slides [here]
+
+I have outlined which flags I have worked on and which one my other group members have worked on.
 
 ###Code in your plate
 
