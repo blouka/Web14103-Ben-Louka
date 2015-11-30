@@ -38,7 +38,7 @@ View my project on Google Slides [here](https://docs.google.com/presentation/d/1
 
 ###One Tweet
 
-View my project on Github [here](https://github.com/blouka/OneTweet)
+View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/OneTweet)
 
 View my project on Google slides [here](https://docs.google.com/presentation/d/1zvkzAGCBsfVFwb3snAskKVmCcQKxnPvO8lzsxeVimt4/edit?usp=sharing) 
 
