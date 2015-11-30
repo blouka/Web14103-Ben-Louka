@@ -3,7 +3,7 @@ Changing and creating flags
 
 
 
-
+*Bens Flags*
 
 ###Original Version - Great Britain
 
@@ -26,6 +26,9 @@ This is the original version of the Great British flag. We chose this flag becau
 ###Version 4
 
 ![image](Greatbritain/Version4.png)
+
+
+*Deans Flags*
 
 ###Original Version - Canada
 
