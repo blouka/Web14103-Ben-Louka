@@ -47,6 +47,11 @@ This is the original version of the Great British flag. We chose this flag becau
 ![image](Canada/4.png)
 
 
+*Ben's Flags*
+##Mixed flags
+Chile and Spain
+
+![image](Mix/Spain&Chile.png)
 
 ##New flag ideas
 ![image](Newflags/newflag.png)
