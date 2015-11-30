@@ -60,7 +60,7 @@ I have outlined which flags I have worked on and which one my other group member
 
 View full recipe [here](https://d157rqmxrxj6ey.cloudfront.net/blouka/16169/)
 
-View recipe CSS [Here](file:///Users/benlouka/Downloads/project/style.css)
+View recipe CSS [Here](https://thimble.mozilla.org/user/blouka/65835)
 
 ###Summative presentation
 
