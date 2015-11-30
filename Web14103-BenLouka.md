@@ -44,6 +44,10 @@ View my project on Google slides [here](https://docs.google.com/presentation/d/1
 
 ###The Union Hack
 
+View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/UnionHack)
+
+View my project on Google slides [here]
+
 ###Code in your plate
 
 View full recipe [here](https://d157rqmxrxj6ey.cloudfront.net/blouka/16169/)
