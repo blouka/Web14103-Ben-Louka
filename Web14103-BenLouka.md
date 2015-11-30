@@ -34,6 +34,8 @@
 
 ###Eye Bombing
 
+View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/EyeBombing)
+
 View my project on Google Slides [here](https://docs.google.com/presentation/d/1fKzT6UncrZ4-Eq9HKPfxZni0BBSqnteSGG5pQrK8uw4/edit#slide=id.geae86b3ea_0_29)
 
 
@@ -50,7 +52,7 @@ View my project on Google slides [here](https://docs.google.com/presentation/d/1
 
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/UnionHack)
 
-View my project on Google slides [here]
+View my project on Google slides [here](https://docs.google.com/presentation/d/1wpCSnG4Iu_bIg69B5_zRYUI66WXLWFX2LX4Mx9IauzU/edit#slide=id.gea60d5965_1_10)
 
 I have outlined which flags I have worked on and which one my other group members have worked on.
 
@@ -62,4 +64,4 @@ View recipe CSS [Here](file:///Users/benlouka/Downloads/project/style.css)
 
 ###Summative presentation
 
-Veiw my Summative presentation [here](https://docs.google.com/presentation/d/1qp0M6pHRfUjcDfXsuC047PPkWtL0kh2nZurzFBUS5UY/edit?usp=sharing)
+View my Summative presentation [here](https://docs.google.com/presentation/d/1qp0M6pHRfUjcDfXsuC047PPkWtL0kh2nZurzFBUS5UY/edit?usp=sharing)
