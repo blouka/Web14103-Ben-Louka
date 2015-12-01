@@ -15,11 +15,11 @@
 ###Blog posts
 *All blogs posts for this term are listed below:*
 
-1. [Eye Bombing](https://medium.com/@blouka/18124750782b)
-2. [One Tweet](https://medium.com/@blouka/3b8abf985162)
-3. [The Union Hack](https://medium.com/@blouka/a4f454766b99)
-4. [Peer learning](https://medium.com/@blouka/255c5443798d)
-5. [Formative](https://medium.com/@blouka/93a402577f85)
+1. [Eye Bombing](https://medium.com/@blouka/eye-bombing-blog-18124750782b#.ljhpazmnu)
+2. [One Tweet](https://medium.com/@blouka/one-tweet-blog-3b8abf985162#.9rl0ilaz4)
+3. [The Union Hack](https://medium.com/@blouka/the-union-hack-blog-a4f454766b99#.s9bupkxzi)
+4. [Peer learning](https://medium.com/@blouka/peer-learning-blog-255c5443798d#.xuwaolwjk)
+5. [Formative](https://medium.com/@blouka/formative-reflective-blog-93a402577f85#.utflexj6b)
 6. [The Webs Gain]
 7. [Code your plate]
 8. [CSS tricks]
