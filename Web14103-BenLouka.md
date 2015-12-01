@@ -34,6 +34,10 @@
 
 ###Eye Bombing
 
+This project made us look faces in everyday objects and surroundings and took a photo of them.
+
+![image](EyeBombing/Newfaces/edited2.png)
+
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/EyeBombing)
 
 View my project on Google Slides [here](https://docs.google.com/presentation/d/1fKzT6UncrZ4-Eq9HKPfxZni0BBSqnteSGG5pQrK8uw4/edit#slide=id.geae86b3ea_0_29)
@@ -43,12 +47,16 @@ View my project on Google Slides [here](https://docs.google.com/presentation/d/1
 All the work uploaded was collaborative.
 
 ###One Tweet
+This project we had to choose a Tweet out the list given or one that we chose our self, and use this tweet to create five typography posters but following certain rules, for example one font family, three colours max
+
 
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/OneTweet)
 
 View my project on Google slides [here](https://docs.google.com/presentation/d/1zvkzAGCBsfVFwb3snAskKVmCcQKxnPvO8lzsxeVimt4/edit?usp=sharing) 
 
 ###The Union Hack
+
+For this project we had to firstly mash up flags that already existed by changing the colours and shapes. After creating them we had to make a new flag, that could either be a real or made up place.
 
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/UnionHack)
 
