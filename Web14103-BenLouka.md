@@ -21,7 +21,7 @@
 4. [Peer learning](https://medium.com/@blouka/peer-learning-blog-255c5443798d#.xuwaolwjk)
 5. [Formative](https://medium.com/@blouka/formative-reflective-blog-93a402577f85#.utflexj6b)
 6. [The Webs Gain]
-7. [Code your plate]
+7. [Code your plate](https://medium.com/@blouka/code-in-your-recipe-9b3f37d51d7a#.i9rcuxg27)
 8. [CSS tricks]
 
 ###Peer Learning
