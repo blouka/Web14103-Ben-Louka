@@ -6,7 +6,7 @@
 
 ![image](Typography1.png)
 
-I decieded to use this typography poster because the question mark I see as the vital part of the tweet. This is because I feel that it can be seen as a sarcastic tweet, and the question mark is emphasising that.
+I decided to use this typography poster because the question mark I see as the vital part of the tweet. This is because I feel that it can be seen as a sarcastic tweet, and the question mark is emphasising that.
 
 ####Typgraphy poster 2
 ![image](Typography2.png)
