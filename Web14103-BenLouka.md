@@ -22,7 +22,7 @@
 5. [Formative](https://medium.com/@blouka/formative-reflective-blog-93a402577f85#.utflexj6b)
 6. [The Webs Gain]
 7. [Code your plate](https://medium.com/@blouka/code-in-your-recipe-9b3f37d51d7a#.i9rcuxg27)
-8. [CSS tricks]
+8. [CSS tricks](https://medium.com/@blouka/css-tricks-transitions-blog-1dcd4cdb32c8#.2em7p5rdk)
 
 ###Peer Learning
 1. [Visual perception principles](https://docs.google.com/presentation/d/1GJjMppeeNt98rnjT8lhDBicm6FtLKzr4UgVyUp95CvE/pub?slide=id.p)
