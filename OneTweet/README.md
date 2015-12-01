@@ -4,17 +4,17 @@
 
 ####Typography poster 1
 
-![image](Typography2.png)
+![image](Typography2)
 
 ####Typgraphy poster 2
-![image](Typography 6.png)
+![image](Typography 6)
 
 ####Typography poster 3
 
-![image](Typography 3.png)
+![image](Typography 3)
 
 ####Typography poster 4
-![image] (Typography 9.png)
+![image] (Typography 9)
 
 ####Typography poster 5
-![image] (typography10.png)
+![image] (typography10)
