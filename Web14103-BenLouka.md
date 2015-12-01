@@ -36,18 +36,19 @@
 
 This project made us look faces in everyday objects and surroundings and took a photo of them.
 
-![image](EyeBombing/Newfaces/edited2.png)
+![image](EyeBombing/Newfaces/edited17.png =300x300)
 
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/EyeBombing)
 
 View my project on Google Slides [here](https://docs.google.com/presentation/d/1fKzT6UncrZ4-Eq9HKPfxZni0BBSqnteSGG5pQrK8uw4/edit#slide=id.geae86b3ea_0_29)
 
 
-
 All the work uploaded was collaborative.
 
 ###One Tweet
-This project we had to choose a Tweet out the list given or one that we chose our self, and use this tweet to create five typography posters but following certain rules, for example one font family, three colours max
+This project we had to choose a Tweet out the list given or one that we chose our self, and use this tweet to create five typography posters but following certain rules, for example one font family, three colours max.
+
+![image](OneTweet/typography5.png =300x300)
 
 
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/OneTweet)
@@ -58,6 +59,8 @@ View my project on Google slides [here](https://docs.google.com/presentation/d/1
 
 For this project we had to firstly mash up flags that already existed by changing the colours and shapes. After creating them we had to make a new flag, that could either be a real or made up place.
 
+![image](UnionHack/Newflags/newflag.png)
+
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/UnionHack)
 
 View my project on Google slides [here](https://docs.google.com/presentation/d/1wpCSnG4Iu_bIg69B5_zRYUI66WXLWFX2LX4Mx9IauzU/edit#slide=id.gea60d5965_1_10)
@@ -65,6 +68,8 @@ View my project on Google slides [here](https://docs.google.com/presentation/d/1
 I have outlined which flags I have worked on and which one my other group members have worked on.
 
 ###Code in your plate
+
+This project was about us finding a recipe online or one that we know, and to code it firstly in a markdown file, then to transfer it to Thimble, where we could use CSS to add effetive elements.
 
 View full recipe, HTML and CSS [here](https://d157rqmxrxj6ey.cloudfront.net/blouka/16169/)
 
