@@ -36,7 +36,7 @@
 
 This project made us look faces in everyday objects and surroundings and took a photo of them.
 
-![image](EyeBombing/Newfaces/edited17.png =300x300)
+![image](EyeBombing/Newfaces/edited17.png=300x300)
 
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/EyeBombing)
 
@@ -48,7 +48,7 @@ All the work uploaded was collaborative.
 ###One Tweet
 This project we had to choose a Tweet out the list given or one that we chose our self, and use this tweet to create five typography posters but following certain rules, for example one font family, three colours max.
 
-![image](OneTweet/typography5.png =300x300)
+![image](OneTweet/typography5.png=300x300)
 
 
 View my project on Github [here](https://github.com/blouka/Web14103-Ben-Louka/tree/master/OneTweet)
