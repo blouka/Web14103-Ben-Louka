@@ -27,4 +27,4 @@ I chose to create this poster because firstly it has the twitter font, and it li
 ####Typography poster 5
 ![image] (typography5.png)
 
-My last poster was my favourit. This is because it firstly has a black and white colour scheme which reflect prison, and also the prison type font which relfects Snowdens life in jail.
+My last poster was my favourite. This is because it firstly has a black and white colour scheme which reflect prison, and also the prison type font which relfects Snowdens life in jail.
