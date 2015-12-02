@@ -66,7 +66,7 @@ I have outlined which flags I have worked on and which one my other group member
 
 This project was about us finding a recipe online or one that we know, and to code it firstly in a markdown file, then to transfer it to Thimble, where we could use CSS to add effetive elements.
 
-View full recipe, HTML[here](https://d157rqmxrxj6ey.cloudfront.net/blouka/16169/)
+View full recipe, HTML [here](https://d157rqmxrxj6ey.cloudfront.net/blouka/16169/)
 
 View the recipe CSS [here](https://docs.google.com/document/d/1JYdYMkuJB2KFVxomDjL6SpcdZ9bkk9Lj9yfqcF1gEQQ/edit?usp=sharing)
 
