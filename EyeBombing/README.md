@@ -28,3 +28,11 @@ This work was all collaborative.
 ![image](Newfaces/edited17.png)
 
 ![image](Newfaces/edited18.png)
+
+![image](Newfaces/Face20.png)
+
+![image](Newfaces/Face21.png)
+
+![image](Newfaces/Face22.png)
+
+![image](Newfaces/Face23.png)
