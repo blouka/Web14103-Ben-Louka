@@ -30,6 +30,6 @@ I chose to create this poster because firstly it has the twitter font, and it li
 My last poster was my favourite. This is because it firstly has a black and white colour scheme which reflect prison, and also the prison type font which relfects Snowdens life in jail.
 
 ####Typography poster 5 remix
+![image](typography6.png)
 
 This is a remix of the poster above, as recevied feedback that I could make it look like tiles, which makes the design more appealing.
-![image](typography6.png)
