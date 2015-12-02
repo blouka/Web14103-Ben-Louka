@@ -20,7 +20,7 @@
 3. [The Union Hack](https://medium.com/@blouka/the-union-hack-blog-a4f454766b99#.s9bupkxzi)
 4. [Peer learning](https://medium.com/@blouka/peer-learning-blog-255c5443798d#.xuwaolwjk)
 5. [Formative](https://medium.com/@blouka/formative-reflective-blog-93a402577f85#.utflexj6b)
-6. [The Webs Gain]
+6. [The Webs Gain](https://medium.com/@blouka/the-webs-gain-6601bbf1ffa9#.t1pgjvz84)
 7. [Code your plate](https://medium.com/@blouka/code-in-your-recipe-9b3f37d51d7a#.i9rcuxg27)
 8. [CSS tricks](https://medium.com/@blouka/css-tricks-transitions-blog-1dcd4cdb32c8#.2em7p5rdk)
 
